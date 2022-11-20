@@ -13,8 +13,11 @@ are aggregated via a permutation invariant operator such as topK max-pooling to 
 </p>
 
 ## Installation
+Tested on:
+- pytorch: 1.13.0
+- transformers: 4.19.3
 
-This repository includes the inference script for **MI-Zero**. Currently, we only present the script in a notebook for the reviewers' convenience and will refactor into full scripts and release model weights closer to publication. 
+We provide an illustrative example of MI-Zero in **MI-Zero_illustrated** for reviewers' convenience. We plan to refactor the complete inference script  and make it available together with model weights closer to publication.
 
 Clone the repository with:
 
